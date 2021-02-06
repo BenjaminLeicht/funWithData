@@ -12,3 +12,12 @@
   -> Speichern in DB. <br>
 3. Ggf. Auswertung von Daten aus der DB. <br>
   -> TBD. 
+
+Woher kommen die Daten?
+
+Immobilien:
+immowelt.de API --> https://www.immowelt.de/anbieten/gewerbe/apitechdoku
+immonet.de API --> http://docplayer.org/74479052-Immonet-api-webservices-fuer-immonet-immowelt-hamburg-gmbh.html
+meinestadt.de
+ebay-kleinanzeigen.de
+
