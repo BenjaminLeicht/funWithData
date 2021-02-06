@@ -2,13 +2,13 @@
 
 3 Scripte: 
 
-1. Konfiguration von Umgebung, DB, ggf. Docker? 
-  -> Interaktiv? Pfad der DB, Lokation, Standart. 
-  -> Erstellen einer Config Datei mit eingegebenen Daten an zentraler Stelle. 
-2. Holen von Daten und speichern in DB 
-  -> Lesen von Verbindungsdaten zur DB aus Config Datei. 
-  -> Eingabe von Seiten via Liste oder ähnlichem 
-  -> Anstoßen des Runs, Eingabe von Db spezifischenb Werten 
-  -> Speichern in DB. 
-3. Ggf. Auswertung von Daten aus der DB. 
+1. Konfiguration von Umgebung, DB, ggf. Docker? <br>
+  -> Interaktiv? Pfad der DB, Lokation, Standart. <br>
+  -> Erstellen einer Config Datei mit eingegebenen Daten an zentraler Stelle. <br>
+2. Holen von Daten und speichern in DB <br>
+  -> Lesen von Verbindungsdaten zur DB aus Config Datei. <br>
+  -> Eingabe von Seiten via Liste oder ähnlichem <br>
+  -> Anstoßen des Runs, Eingabe von Db spezifischenb Werten <br>
+  -> Speichern in DB. <br>
+3. Ggf. Auswertung von Daten aus der DB. <br>
   -> TBD. 
