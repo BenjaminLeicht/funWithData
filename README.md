@@ -16,8 +16,8 @@
 Woher kommen die Daten?
 
 Immobilien:
--> immowelt.de API --> https://www.immowelt.de/anbieten/gewerbe/apitechdoku
--> immonet.de API --> http://docplayer.org/74479052-Immonet-api-webservices-fuer-immonet-immowelt-hamburg-gmbh.html
--> meinestadt.de
--> ebay-kleinanzeigen.de
+  -> immowelt.de API --> https://www.immowelt.de/anbieten/gewerbe/apitechdoku
+  -> immonet.de API --> http://docplayer.org/74479052-Immonet-api-webservices-fuer-immonet-immowelt-hamburg-gmbh.html
+  -> meinestadt.de
+  -> ebay-kleinanzeigen.de
 
